@@ -68,7 +68,7 @@ public class Matrices {
             for (int j = 0; j < numero[i].length; j++) {
                 //se imprime por pantalla cada uno de los valores de la matriz
                 System.out.print("["+numero[i][j]+"]");
-            }
+            }   
             System.out.println("");
         }
         
